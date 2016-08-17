@@ -26,11 +26,14 @@
 
 ### 5. Setup Atom
 
-- Download and install latest version of [Atom](https://atom.io)
+- Download and install latest version of [Atom](https://atom.io).
 - Install favourite packages:
   - [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
   - [Selector to tag](https://atom.io/packages/selector-to-tag)
   - [EditorConfig](https://atom.io/packages/editorconfig)
+- Remember to configure:
+  - Disable packages `wrap-guide` and `spell-check`.
+  - Set default line ending to `LF` in config of package `line-ending-selector`.
 
 ## Java development
 
