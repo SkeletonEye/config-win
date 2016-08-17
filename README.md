@@ -14,7 +14,7 @@
 - Download and install latest version of [Git Bash](https://www.git-scm.com/).
 - Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
 
-If you want to have only `LF` endings in your remote repository, you don't need to set the default value for line endings to `LF` in any editor or IDE, because Git replaces Windows' `CRLF` endings with `LF` endings automatically when `core.autocrlf` is set to `true` in Git's config.
+**About CRLF and LF:** If you want to have only `LF` endings in your remote repository, you don't need to set the default value for line endings to `LF` in any editor or IDE, because Git replaces Windows' `CRLF` endings with `LF` endings automatically when `core.autocrlf` is set to `true` in Git's config.
 
 ## Web development
 
@@ -33,6 +33,7 @@ If you want to have only `LF` endings in your remote repository, you don't need 
   - [Wrap in tag](https://www.atom.io/packages/atom-wrap-in-tag)
   - [Selector to tag](https://www.atom.io/packages/selector-to-tag)
   - [EditorConfig](https://www.atom.io/packages/editorconfig)
+  - [Keyboard Localization](https://www.atom.io/packages/keyboard-localization)
 - Disable packages `wrap-guide` and `spell-check`.
 
 ## Java development
