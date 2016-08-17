@@ -20,11 +20,11 @@
 - Download and install [XAMPP](https://www.apachefriends.org/index.html).
 - Set `DocumentRoot` to `~/work` folder in Apache's `httpd.conf` (and make sure access to that directory is granted).
 
-### 3. Setup Node.js and XAMPP
+### 4. Setup Node.js
 
 - Download and install latest version of [Node.js](https://www.nodejs.org/en/).
 
-### 4. Setup Atom
+### 5. Setup Atom
 
 - Download and install latest version of [Atom](https://atom.io)
 - Install favourite packages:
@@ -34,12 +34,12 @@
 
 ## Java development
 
-### 5. Setup JDK
+### 6. Setup JDK
 
 - Make sure the latest version of [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html) is installed.
 - Make sure environment variable `JAVA_HOME` is set.
 
-### 6. Setup Eclipse
+### 7. Setup Eclipse
 
 - Download and install latest version of [Eclipse](https://www.eclipse.org).
 - Change some preferences (`Window` > `Preferences`):
@@ -48,6 +48,6 @@
   - Disable spell checking (`General` > `Editors` > `Text editors` > `Spelling`).
   - Change `Tab policy` to `Spaces only` in the currently used profile (`Java` > `Code Style` > `Formatter`).
 
-### 7. Additional tools
+### 8. Additional tools
 
 - Download and install latest version of [Maven](https://maven.apache.org/).
