@@ -14,6 +14,8 @@
 - Download and install latest version of [Git Bash](https://www.git-scm.com/).
 - Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
 
+If you want to have only `LF` endings in your remote repository, you don't need to set the default value for line endings to `LF` in any editor or IDE, because Git replaces Windows' `CRLF` endings with `LF` endings automatically when `core.autocrlf` is set to `true` in Git's config.
+
 ## Web development
 
 ### 3. Setup XAMPP
@@ -26,14 +28,12 @@
 
 ### 5. Setup Atom
 
-- Download and install latest version of [Atom](https://atom.io).
+- Download and install latest version of [Atom](https://www.atom.io).
 - Install favourite packages:
-  - [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
-  - [Selector to tag](https://atom.io/packages/selector-to-tag)
-  - [EditorConfig](https://atom.io/packages/editorconfig)
-- Remember to configure:
-  - Disable packages `wrap-guide` and `spell-check`.
-  - Set default line ending to `LF` in config of package `line-ending-selector`.
+  - [Wrap in tag](https://www.atom.io/packages/atom-wrap-in-tag)
+  - [Selector to tag](https://www.atom.io/packages/selector-to-tag)
+  - [EditorConfig](https://www.atom.io/packages/editorconfig)
+- Disable packages `wrap-guide` and `spell-check`.
 
 ## Java development
 
