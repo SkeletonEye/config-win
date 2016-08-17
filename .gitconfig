@@ -1,0 +1,15 @@
+[user]
+	name = SkeletonEye
+	email = muellercharles@outlook.com
+
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+
+[core]
+  autocrlf = true
+
+[push]
+	default = matching
