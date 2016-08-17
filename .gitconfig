@@ -1,6 +1,6 @@
 [user]
-	name = SkeletonEye
-	email = muellercharles@outlook.com
+  name = SkeletonEye
+  email = muellercharles@outlook.com
 
 [alias]
   co = checkout
@@ -12,4 +12,4 @@
   autocrlf = true
 
 [push]
-	default = matching
+  default = matching
