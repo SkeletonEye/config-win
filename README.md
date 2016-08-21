@@ -22,9 +22,10 @@
 - Download and install [XAMPP](https://www.apachefriends.org/index.html).
 - Set `DocumentRoot` to `~/work` folder in Apache's `httpd.conf` (and make sure access to that directory is granted).
 
-### 4. Setup Node.js
+### 4. Setup Node.js and Composer
 
 - Download and install latest version of [Node.js](https://www.nodejs.org/en/).
+- Download and install latest version of [Composer](https://www.getcomposer.org).
 
 ### 5. Setup Atom
 
