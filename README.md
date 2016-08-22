@@ -25,6 +25,7 @@
 ### 4. Setup Node.js and Composer
 
 - Download and install latest version of [Node.js](https://www.nodejs.org/en/).
+  - Globally install Grunt's CLI via npm: `$ npm install -g grunt-cli`
 - Download and install latest version of [Composer](https://www.getcomposer.org).
 
 ### 5. Setup Atom
