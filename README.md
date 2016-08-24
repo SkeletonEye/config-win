@@ -40,10 +40,11 @@
 
 ## Java development
 
-### 6. Setup JDK
+### 6. Setup JDK and Scala
 
 - Make sure the latest version of [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html) is installed.
 - Make sure environment variable `JAVA_HOME` is set.
+- Download and install latest version of [Scala](https://www.scala-lang.org/).
 
 ### 7. Setup Eclipse
 
