@@ -36,6 +36,7 @@
   - [Selector to tag](https://www.atom.io/packages/selector-to-tag)
   - [EditorConfig](https://www.atom.io/packages/editorconfig)
   - [Keyboard Localization](https://www.atom.io/packages/keyboard-localization)
+  - [REST Client](https://www.atom.io/packages/rest-client)
 - Disable packages `wrap-guide` and `spell-check`.
 
 ## Java development
