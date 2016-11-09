@@ -1,6 +1,6 @@
 # Config
 
-**Config** is a basic checklist I follow to set up a new development environment on a windows machine. It's heavily inspired by [mdo's version for Macs](https://www.github.com/mdo/config).
+**Config** is a basic checklist I follow to set up a new development environment on a windows machine. It's heavily inspired by [mdo's version for Macs](https://www.github.com/mdo/config/).
 
 ## General preparations
 
@@ -26,17 +26,17 @@
 
 - Download and install latest version of [Node.js](https://www.nodejs.org/en/).
   - Globally install Grunt's CLI via npm: `$ npm install -g grunt-cli`
-- Download and install latest version of [Composer](https://www.getcomposer.org).
+- Download and install latest version of [Composer](https://www.getcomposer.org/).
 
 ### 5. Setup Atom
 
-- Download and install latest version of [Atom](https://www.atom.io).
+- Download and install latest version of [Atom](https://www.atom.io/).
 - Install favourite packages:
-  - [Wrap in tag](https://www.atom.io/packages/atom-wrap-in-tag)
-  - [Selector to tag](https://www.atom.io/packages/selector-to-tag)
-  - [EditorConfig](https://www.atom.io/packages/editorconfig)
-  - [Keyboard Localization](https://www.atom.io/packages/keyboard-localization)
-  - [REST Client](https://www.atom.io/packages/rest-client)
+  - [Wrap in tag](https://www.atom.io/packages/atom-wrap-in-tag/)
+  - [Selector to tag](https://www.atom.io/packages/selector-to-tag/)
+  - [EditorConfig](https://www.atom.io/packages/editorconfig/)
+  - [Keyboard Localization](https://www.atom.io/packages/keyboard-localization/)
+  - [REST Client](https://www.atom.io/packages/rest-client/)
 - Disable packages `wrap-guide` and `spell-check`.
 
 ## Java development
@@ -49,12 +49,12 @@
 
 ### 7. Setup Eclipse
 
-- Download and install latest version of [Eclipse](https://www.eclipse.org).
+- Download and install latest version of [Eclipse](https://www.eclipse.org/).
 - Change some preferences (`Window` > `Preferences`):
   - Set `Windows` theme (`General` > `Appearance`).
   - Make sure `Text Font` is set to `Consolas` (`General` > `Appearance` > `Colors and Fonts`).
   - Disable spell checking (`General` > `Editors` > `Text editors` > `Spelling`).
-  - Download and import [Eclipse Formatter](https://gist.github.com/SkeletonEye/8a8818a29a456e9438330e207206a7c1) (`Java` > `Code Style` > `Formatter`).
+  - Download and import [Eclipse Formatter](https://gist.github.com/SkeletonEye/8a8818a29a456e9438330e207206a7c1/) (`Java` > `Code Style` > `Formatter`).
 
 ### 8. Additional tools
 
