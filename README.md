@@ -54,7 +54,7 @@
   - Set `Windows` theme (`General` > `Appearance`).
   - Make sure `Text Font` is set to `Consolas` (`General` > `Appearance` > `Colors and Fonts`).
   - Disable spell checking (`General` > `Editors` > `Text editors` > `Spelling`).
-  - Change `Tab policy` to `Spaces only` in the currently used profile (`Java` > `Code Style` > `Formatter`).
+  - Download and import [Eclipse Formatter](https://gist.github.com/SkeletonEye/8a8818a29a456e9438330e207206a7c1) (`Java` > `Code Style` > `Formatter`).
 
 ### 8. Additional tools
 
