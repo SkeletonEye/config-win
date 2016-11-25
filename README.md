@@ -32,10 +32,10 @@
 
 - Download and install latest version of [Atom](https://www.atom.io/).
 - Install favourite packages:
-  - [Wrap in tag](https://www.atom.io/packages/atom-wrap-in-tag/)
-  - [Selector to tag](https://www.atom.io/packages/selector-to-tag/)
-  - [EditorConfig](https://www.atom.io/packages/editorconfig/)
-  - [REST Client](https://www.atom.io/packages/rest-client/)
+  - [atom-wrap-in-tag](https://www.atom.io/packages/atom-wrap-in-tag/)
+  - [selector-to-tag](https://www.atom.io/packages/selector-to-tag/)
+  - [editorconfig](https://www.atom.io/packages/editorconfig/)
+  - [rest-client](https://www.atom.io/packages/rest-client/)
 - Disable packages `wrap-guide` and `spell-check`.
 
 ## Java development
